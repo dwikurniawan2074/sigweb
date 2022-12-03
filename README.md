@@ -10,5 +10,5 @@ Anggota Kelompok 6 :
 
 | Nama                      | NPM        | Kelas |
 | ------------------------- | ---------- | ----- |
-| Ages Mahesa               | 2017051027 | B     |
-| Dwi Kurniawan             | 2017051074 | A     |
+| Ages Mahesa               | 2017051027 | A     |
+| Dwi Kurniawan             | 2017051074 | B     |
