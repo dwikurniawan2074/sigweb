@@ -13,5 +13,5 @@
 | ------------------------- | ---------- |
 | Tambat Ramdhani           | 1717051034 |
 | Ages Mahesa               | 2017051027 |
-| Assyfa Naziwa Ganandy     | 2017051074 |
+| Assyfa Naziwa Ganandy     | 2017051046 |
 | Dwi Kurniawan             | 2017051074 |
