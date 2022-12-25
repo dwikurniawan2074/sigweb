@@ -5,6 +5,8 @@
 
 - Codeigniter 4
 - Bootstrap
+- Leaflet
+- Quixlab-master template
 
 
 | Nama                      | NPM        |
