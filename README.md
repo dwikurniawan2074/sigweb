@@ -6,6 +6,7 @@
 - Codeigniter 4
 - Bootstrap
 - Leaflet
+- Composer
 - Quixlab-master template
 
 
